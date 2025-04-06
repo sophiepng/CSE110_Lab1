@@ -24,5 +24,5 @@ My ToDo list for today is:
 - [ ] CSE 150A HW
 - [ ] Pay eBill
 
-Section Link: Click to return to [Top](#sophies-user-page)
+Section Link: Click to return to [Top](#sophies-user-page)  
 Relative Link: Click to go to [README](/README.md)
