@@ -1,11 +1,12 @@
 # Sophie's User Page
 ## Introduction
 I'm a second-year student at **UCSD** majoring in *Computer Science*. My favorite quote from the <ins>CSE Department</ins> is 
->Start early, start often.   
+>Start early, start often.  
+
 In this lab I used git commands such as `git add`, `git status`, and `git commit`. You can learn more about me at my [LinkedIn](https://www.linkedin.com/in/sophiephung/). 
 
 ## Cat Picture
-![Cat Pic](IMG_6321.jpg)
+![Cat Pic](cat.JPEG)
 
 ## Lists
 This quarter I'm taking:
