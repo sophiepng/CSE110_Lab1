@@ -28,5 +28,5 @@ Section Link: Click to return to [Top](#sophies-user-page)
 Relative Link: Click to go to [README](/README.md)
 
 ## Screenshots
-[1](/screenshots/Screenshot 2025-04-06 at 00.03.26.png)
-[2](/screenshots/Screenshot 2025-04-06 at 15.05.37.png)
+[1](/screenshots/Screenshot-2025-04-06-at-00.03.26.png)  
+[2](/screenshots/Screenshot-2025-04-06-at-15.05.37.png)
